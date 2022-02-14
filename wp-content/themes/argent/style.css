@@ -44,12 +44,6 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 	12.2 Galleries
 --------------------------------------------------------------*/
 
-/*ADDED BY ME*/
-
-.site-title a, .site-description {
-    color: #000 !important;
-}
-
 /*--------------------------------------------------------------
 1.0 Reset
 --------------------------------------------------------------*/
